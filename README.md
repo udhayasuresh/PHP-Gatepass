@@ -1,4 +1,6 @@
-http://192.168.0.64/viaridash/
+##localhost url demo
+
+http://127.0.0.1/gatepass/
 
 ## File Structure
 
